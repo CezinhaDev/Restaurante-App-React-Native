@@ -3,9 +3,11 @@
 
 
 Restaurante App - React Native
+
 Este projeto é um aplicativo em React Native desenvolvido como parte de um desafio acadêmico. O app tem como tema um restaurante e inclui funcionalidades essenciais para a navegação e interação do usuário.
 
 Funcionalidades
+
 Tela de Splash : Exibição inicial do app.
 Tela de Login : Interface simples e intuitiva para autenticação de usuários.
 Guia Menu : Navegação entre os diferentes recursos do aplicativo.
@@ -19,12 +21,19 @@ Clonar este repositório.
 Instalar as dependências:
 bater
 
+
 Copiar código
+
 npm install
+
 Início do aplicativo:
+
 bater
 
 Copiar código
+
 npm start
+
 Contribuições
+
 Sinta-se à vontade para contribuir com melhorias no projeto. Qualquer sugestão ou contribuição será bem-vinda!

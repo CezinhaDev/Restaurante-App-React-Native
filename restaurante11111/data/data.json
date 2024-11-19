@@ -1,0 +1,35 @@
+{
+  "cardapio": [
+    {
+      "id": 1,
+      "nome": "Prato 1",
+      "preco": "R$ 20,00",
+      "descricao": "Deliciosa comida com arroz, feijão e carne.",
+      "imagem": "comida1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Prato 2",
+      "preco": "R$ 30,00",
+      "descricao": "Frango grelhado com salada fresca.",
+      "imagem": "comida2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Prato 3",
+      "preco": "R$ 25,00",
+      "descricao": "Peixe assado com batatas e legumes.",
+      "imagem": "comida3.jpg"
+    }
+  ],
+  "fotos": [
+    {
+      "id": 1,
+      "imagem": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 2,
+      "imagem": "https://via.placeholder.com/200"
+    }
+  ]
+}
